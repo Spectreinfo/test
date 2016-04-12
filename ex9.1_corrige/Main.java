@@ -10,5 +10,8 @@ public class Main {
 		Keyboard keyboard = new Keyboard(game);
 		window.setKeyListener(keyboard);
 		System.out.println("coucou");
+		System.out.println("et merde");
+		System.out.println("coucou1");
+		System.out.println("coucou2");
 	}
 }
